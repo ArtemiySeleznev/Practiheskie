@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="raz15">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="raz20">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="raz25">
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>
