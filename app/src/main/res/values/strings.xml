@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penkov11</string>
+    <string name="action_setting">Setting</string>
+    <string name="action1">Первый</string>
+    <string name="action2">Второй</string>
+    <string name="action3">Третий</string>
+</resources>
