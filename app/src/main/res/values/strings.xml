@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sam11</string>
+    <string name="action_setting">Setting</string>
+    <string name="action1">1</string>
+    <string name="action2">2</string>
+    <string name="action3">3</string>
+</resources>
